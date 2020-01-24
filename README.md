@@ -1,10 +1,12 @@
 # Dev-Radar
-
 Um app desenvolvido na semana OnmiStack 10,com intuido de cadastrar devs e suas tecnologias, para que empresas possam pesquisar por esses devs, em um raio de 10km,
 além disso o projeto é todo em tempo real.
 
-#Tecnologias utilizadas:
+#O que foi abordado nesse desafio:
 
-.ReactJS
-.React Native
-.NodeJS.
+* NodeJS
+* React Native
+* ReactJS
+* Socket.io  
+
+
